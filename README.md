@@ -4,19 +4,7 @@ One of the world's largest apparel retail company offering clothing, shoes, and 
 
 # Deployed Link:
 
-<!-- <h2>https://gourav135.github.io/UNIQLO/</h2> -->
 <h2>kapiljadon5849-uniqlo.netlify.app/</h2>
- 
-# Snapshots
-![Screenshot (1298)](https://user-images.githubusercontent.com/96097268/158852972-6aa43773-f3d1-4193-b551-4efb14ac4883.png)
-
-![Screenshot (1300)](https://user-images.githubusercontent.com/96097268/158853177-60a542ab-6890-41bd-92d0-984ce9161eae.png)
-
-![Screenshot (1301)](https://user-images.githubusercontent.com/96097268/158853275-2206fbc4-d719-4354-b675-4f39749b395c.png)
-
-![Screenshot (1302)](https://user-images.githubusercontent.com/96097268/158853303-ac02a962-db17-4fb7-96ed-80fbd453afd6.png)
-
-![Screenshot (1305)](https://user-images.githubusercontent.com/96097268/158853379-328093fa-43ce-49e6-b21f-b8ff281ef8e5.png)
 
 # Technology We Used :computer: 
 1. HTML5
@@ -39,4 +27,17 @@ One of the world's largest apparel retail company offering clothing, shoes, and 
 - Clone the repository `https://github.com/Kapil5849Jadon/UNIQLO-Web-Clone.git`
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
+
+ 
+# Snapshots
+![Screenshot (1298)](https://user-images.githubusercontent.com/96097268/158852972-6aa43773-f3d1-4193-b551-4efb14ac4883.png)
+
+![Screenshot (1300)](https://user-images.githubusercontent.com/96097268/158853177-60a542ab-6890-41bd-92d0-984ce9161eae.png)
+
+![Screenshot (1301)](https://user-images.githubusercontent.com/96097268/158853275-2206fbc4-d719-4354-b675-4f39749b395c.png)
+
+![Screenshot (1302)](https://user-images.githubusercontent.com/96097268/158853303-ac02a962-db17-4fb7-96ed-80fbd453afd6.png)
+
+![Screenshot (1305)](https://user-images.githubusercontent.com/96097268/158853379-328093fa-43ce-49e6-b21f-b8ff281ef8e5.png)
+
 
