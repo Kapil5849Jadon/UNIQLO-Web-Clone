@@ -1,6 +1,6 @@
 # UNIQLO.COM
 
-One of the world's largest apparel retail company offering clothing, shoes, and accessories for men, women and kids. You can add the food items in cart-page then order the food items by checking out.
+One of the world's largest apparel retail company offering clothing, shoes, and accessories for men, women and kids.
 
 # Deployed Link:
 
